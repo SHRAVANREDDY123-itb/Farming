@@ -11,6 +11,6 @@ flask
 pandas
 joblib
 tensorflow
-pickle5 0.0.12
+pickle5
 sqlite3
 os
