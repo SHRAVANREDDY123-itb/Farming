@@ -11,5 +11,6 @@ flask
 pandas
 joblib
 tensorflow
+sklearn
 
 
