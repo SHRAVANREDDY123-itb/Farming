@@ -10,3 +10,8 @@ numpy
 flask
 pandas
 joblib
+tensorflow
+pickle
+sqlite3
+os
+
