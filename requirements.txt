@@ -12,5 +12,4 @@ pandas
 joblib
 tensorflow
 pickle5
-sqlite3
 os
